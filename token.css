@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    height: 100vh;
+    background-color: #9b8d8d;
+    padding-top: 40vh;
+}
+
+.wrapper {
+    background-color: white;
+    width: 35%;
+    height: 20vh;
+    margin: auto;
+    border-radius: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    font-size: 1.5rem;
+
+}
+
+button {
+    width: 2rem;
+    height: 2.5rem;
+    font-size: 2rem;
+}
